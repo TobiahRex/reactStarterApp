@@ -1,1 +1,1 @@
-// React App Intro
+// React Starter App
